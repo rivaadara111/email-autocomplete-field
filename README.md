@@ -11,4 +11,3 @@ I spent the 4h completing this component, the functionality required is all ther
 - Text, eg. placeholder 'Email Suggestions' to come from external i18n object
 - Add inset box shadow at bottom of suggested email list - out of time
 - Fix height being adjusted by a few px when error pill shows
-- Clean up extra CreateReactApp files
