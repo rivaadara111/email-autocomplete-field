@@ -26,11 +26,12 @@
   font-size: 12px;
   padding: 5px 7px;
   border-radius: 3px;
-  margin-right: 3px;
+  margin: auto 3px auto 0;
 }
 .email-list-input-container .selected-email-list .selected-email .fa-times {
   visibility: hidden;
-  margin-left: 3px;
+  margin: auto 2px auto 6px;
+  position: relative;
 }
 .email-list-input-container .selected-email-list .selected-email:hover {
   background-color: #ebebeb;
